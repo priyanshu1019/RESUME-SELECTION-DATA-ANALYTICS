@@ -81,5 +81,3 @@ Copy code
 - **Usage**: Guides on how to use the project.
 - **Contributing**: Information on how others can contribute.
 - **License**: Specifies the project's license.
-
-You can adjust the sections as needed based on additional details or changes in the project.
